@@ -1,8 +1,10 @@
 <!-- Animated Typing Header -->
 <h1 align="center">
-  Hi there, I'm Hemanthraj D 👋 
+  <!-- Line 1: Types out once and stays static -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=100000&color=2563EB&center=true&vCenter=true&width=500&loop=1&lines=Hi+there,+I'm+Hemanthraj D+👋" alt="Typing SVG Name" />
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&lines=Software+Developer;Cybersecurity+Enthusiast;4th+Year+Computer+Science+Student" alt="Typing SVG" />
+  <!-- Line 2: The continuous animated loop for your roles -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Software+Developer;Cybersecurity+Enthusiast;4th+Year+Computer+Science+Student" alt="Typing SVG Roles" />
 </h1>
 
 <p align="center">
@@ -10,6 +12,8 @@
   <a href="https://github.com/hemanthrajd-cyber"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:hemanthrajd25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
+
+
 
 <p align="center">
   <a href="https://linkedin.com/in/hemanthraj-devan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
