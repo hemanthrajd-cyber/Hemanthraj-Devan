@@ -1,26 +1,24 @@
-<!-- HERO HEADER CARD -->
-<div align="center">
-  <br />
-  <h1><b>HEMANTHRAJ D</b></h1>
-  <p><b>Backend Systems & Cybersecurity Engineer</b></p>
-  <p>Computer Science & Engineering • R.M.D Engineering College ('27)</p>
-
+<!-- LEFT-ALIGNED HERO HEADER -->
+<div align="left">
+  <h1>Hemanthraj D 👋</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=false&vCenter=true&width=550&lines=Software+Developer;Java+%26+Spring+Boot+Dev;Cybersecurity+Enthusiast;Final+Year+CSE+Student" alt="Typing SVG" />
+  <br /><br />
   <p>
-    <a href="https://linkedin.com/in/hemanthraj-devan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/hemanthrajd-cyber"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="mailto:hemanthrajd25@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://linkedin.com/in/hemanthraj-devan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/hemanthrajd-cyber"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="mailto:hemanthrajd25@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
 
-<br />
+<hr />
 
-<!-- EXECUTIVE PROFILE HIGHLIGHT -->
+<!-- EXECUTIVE PROFILE -->
 <table>
   <tr>
     <td width="100%">
-      <h3 align="center">💡 Executive Profile</h3>
-      <p align="center">
-        Computer Science Engineering undergraduate specialized in <b>Java, Spring Boot, REST APIs</b>, and <b>Zero-Trust Network Security</b>[cite: 2]. Experienced in enterprise backend architecture through a Software Developer Internship at <b>Infosys Springboard</b>, holding industry certifications in Java (NPTEL) and Ethical Hacking (EC-Council)[cite: 2]. Focused on building scalable, security-first digital solutions for modern enterprise environments[cite: 2].
+      <h3>💡 Executive Profile</h3>
+      <p>
+        Computer Science Engineering undergraduate specialized in <b>Java, Spring Boot, REST APIs</b>, and <b>Zero-Trust Network Security</b>[cite: 2]. Experienced in enterprise backend architecture through a Software Developer Internship at <b>Infosys Springboard</b>, holding industry certifications in Java (NPTEL) and Ethical Hacking (EC-Council)[cite: 2]. Focused on building scalable, security-first digital solutions for modern enterprise environments like <b>LTI Mindtree</b>[cite: 2].
       </p>
     </td>
   </tr>
