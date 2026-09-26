@@ -1,20 +1,16 @@
-# Hi, I'm Your Hemanthraj D👋
+<h1 align="center">✨ Hi, I'm [Your Name] ✨</h1>
+<p align="center">
+  🎓 [Your Degree/Major] • 🤖 [Your Core Track] • ☁️ Cloud & Full Stack Developer
+</p>
+<p align="center">
+  <a href="your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-Blue?style=flat&logo=About.me&logoColor=white"></a>
+  <a href="your-linkedin-link"><img src="https://img.shields.io/badge/LinkedIn-Blue?style=flat&logo=linkedin&logoColor=white"></a>
+</p>
 
-### Software Developer | Java | Spring Boot | SQL
+### 👨‍💻 About Me
+* **Focus Areas:** Enterprise Automation, Scalable Web Architecture, and Cloud Solutions.
+* **Corporate Readiness:** Passionate about digital transformation, agile delivery, and collaborative software engineering.
 
-Computer Science Engineering undergraduate interested in
-Software Development and Cybersecurity.
-
-- 💻 Java, Spring Boot, MySQL
-- 🔐 Interested in Cybersecurity
-- 🚀 Software Developer Intern at Infosys Springboard
-- 🏆 Led a cybersecurity-focused hackathon project
-
-### Skills
-
-Java • Spring Boot • MySQL • SQL • Git • GitHub
-
-### Certifications
-
-- Java – NPTEL
-- Ethical Hacking Essentials – EC-Council
+### 🛠️ Tech Stack & Certifications
+* **Core Languages:** Java, Python, JavaScript, SQL
+* **Frameworks & Tools:** React, Spring Boot, Git, Docker, UiPath
