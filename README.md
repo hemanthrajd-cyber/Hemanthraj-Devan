@@ -1,9 +1,9 @@
 <!-- LEFT-ALIGNED HERO HEADER -->
 <div align="left">
-  <h1>Hi there! I'm Hemanthraj D 👋</h1>
-  <h3>Software Developer | Cybersecurity Enthusiast</h3>
-  <p><b>Final Year CSE Student</b> @ R.M.D Engineering College ('27)</p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=000000&center=false&vCenter=true&width=650&lines=Hands-on+Experience+in+Java+%26+Spring+Boot;Worked+on+Projects+like+SREMS+%26+Risk+Prioritization;Cybersecurity+Enthusiast;Now+working+on+project+SPAGuard" alt="Typing SVG" />
+ <h1 style="font-family: 'Courier New', Courier, monospace; font-weight: 700; font-size: 32px;">Hi there! Hemanthraj D 👋</h1>
+  <h3 style="font-family: 'Courier New', Courier, monospace; font-weight: 600; font-size: 18px;">Software Developer |  Cybersecurity Enthusiast</h3>
+  <p style="font-family: 'Courier New', Courier, monospace; font-size: 15px;"><b>Final Year CSE Student</b> @ R.M.D Engineering College ('27)</p>
+  <img src="https://readme-typing-svg.herokuapp.com?JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=000000&center=false&vCenter=true&width=650&lines=Hands-on+Experience+in+Java+%26+Spring+Boot;Worked+on+Projects+like+SREMS+%26+Risk+Prioritization;Cybersecurity+Enthusiast;Now+working+on+project+SPAGuard" alt="Typing SVG" />
   <br /><br />
 </div>
 <p>
