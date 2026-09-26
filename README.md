@@ -1,54 +1,111 @@
-<h1 align="center">
-  Hi there, I'm Hemanthraj D 👋
-  <br>
-  <!-- This smooth animation loops continuously through your professional roles -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=550&lines=Software+Developer;Java+%26+Spring+Boot+Dev;Cybersecurity+Enthusiast;Final+Year+CSE+student" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <a href="https://linkedin.com/in/hemanthraj-devan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/hemanthrajd-cyber"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:hemanthrajd25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
----
-
-### 👨‍💻 Professional Summary
-* **Background:** Computer Science and Engineering undergraduate at R.M.D Engineering College, Chennai (2023–2027) with a strong foundation in backend development and cybersecurity[cite: 2].
-* **Experience:** Software Developer Intern at **Infosys Springboard**, contributing to backend modules for the Smart Residential Energy Management System (SREMS)[cite: 2].
-* **Core Focus:** Building robust enterprise applications using Java, Spring Boot, and MySQL, complemented by certified ethical hacking fundamentals[cite: 2].
-
----
-
-### 🛠️ Technical Arsenal
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Programming Languages** | `Java`, `C/C++`, `SQL`[cite: 2] |
-| **Frameworks & Architecture** | `Spring Boot`, `Spring Security`, `Hibernate/JPA`, `REST APIs`[cite: 2] |
-| **Databases & Version Control** | `MySQL`, `Git`, `GitHub`, `Maven`[cite: 2] |
-| **Core Competencies** | `OOPs`, `DBMS`, `Computer Networks`, `Zero-Trust Security`[cite: 2] |
-
----
-
-### 🚀 Key Projects
-
-* **SPAGuard — Single Packet Authorization Security System**[cite: 2]
-  * *Tech Stack:* Java, Socket Networking (TCP/UDP), SHA-256, Multithreading[cite: 2].
-  * *Overview:* Engineered a Zero-Trust security system verifying client requests via shared secrets and hashing before granting temporary access to protected TCP services with automatic expiration[cite: 2].
-* **Smart Residential Energy Management System (SREMS)**[cite: 2]
-  * *Tech Stack:* Java, Spring Boot, Spring Security, Hibernate/JPA, MySQL, REST APIs[cite: 2].
-  * *Overview:* Developed backend functionality for the Device Management module, enforcing role-based access control and validating mock energy consumption data using Controller-Service-Repository architecture[cite: 2].
-
----
-
-### 🏆 Certifications
-* **Programming in Java** – NPTEL (Jan – Mar 2025)[cite: 2]
-* **Ethical Hacking Essentials** – EC-Council (Oct 2025)[cite: 2]
-
----
-
-### 🐍 GitHub Contribution Activity Animation
+<!-- HERO HEADER CARD -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hemanthrajd-cyber/hemanthrajd-cyber/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  <br />
+  <h1><b>HEMANTHRAJ D</b></h1>
+  <p><b>Backend Systems & Cybersecurity Engineer</b></p>
+  <p>Computer Science & Engineering • R.M.D Engineering College ('27)</p>
+
+  <p>
+    <a href="https://linkedin.com/in/hemanthraj-devan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/hemanthrajd-cyber"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="mailto:hemanthrajd25@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 </div>
+
+<br />
+
+<!-- EXECUTIVE PROFILE HIGHLIGHT -->
+<table>
+  <tr>
+    <td width="100%">
+      <h3 align="center">💡 Executive Profile</h3>
+      <p align="center">
+        Computer Science Engineering undergraduate specialized in <b>Java, Spring Boot, REST APIs</b>, and <b>Zero-Trust Network Security</b>[cite: 2]. Experienced in enterprise backend architecture through a Software Developer Internship at <b>Infosys Springboard</b>, holding industry certifications in Java (NPTEL) and Ethical Hacking (EC-Council)[cite: 2]. Focused on building scalable, security-first digital solutions for modern enterprise environments[cite: 2].
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- TECHNICAL COMPETENCY GRID -->
+### 🏛️ Technical Competencies
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>☕ Enterprise Backend Development</h4>
+      <ul>
+        <li><b>Languages:</b> Java, C/C++, SQL[cite: 2]</li>
+        <li><b>Frameworks:</b> Spring Boot, Spring Security, Hibernate / JPA[cite: 2]</li>
+        <li><b>Architecture:</b> RESTful APIs, Controller-Service-Repository Pattern, Multithreading[cite: 2]</li>
+        <li><b>Databases & Tools:</b> MySQL, Git, GitHub, Maven[cite: 2]</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡️ Network & Cybersecurity</h4>
+      <ul>
+        <li><b>Security Concepts:</b> Zero-Trust Security, Single Packet Authorization (SPA)[cite: 2]</li>
+        <li><b>Protocols & Cryptography:</b> TCP/UDP Socket Networking, SHA-256 Hashing[cite: 2]</li>
+        <li><b>Systems Control:</b> Dynamic Firewall Rule Management, Access Expiration Controls[cite: 2]</li>
+        <li><b>Core Fundamentals:</b> OOPs, DBMS, Computer Networks[cite: 2]</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- FEATURED ENGINEERING PROJECTS -->
+### 🚀 Featured Systems Engineering
+
+<table>
+  <tr>
+    <td width="100%">
+      <h4>🔒 1. SPAGuard — Single Packet Authorization Security System</h4>
+      <p><b>Tech Stack:</b> <code>Java</code> <code>Socket Networking (TCP/UDP)</code> <code>SHA-256</code> <code>Multithreading</code> <code>Zero-Trust</code>[cite: 2]</p>
+      <ul>
+        <li>Engineered a Java-based Zero-Trust access control system that verifies client requests using shared secrets and SHA-256 hashing prior to granting access[cite: 2].</li>
+        <li>Integrated time-limited access passes with automatic expiration and dynamic Windows Firewall rule injection[cite: 2].</li>
+        <li>Structured the codebase into modular client, server, permission management, and firewall components[cite: 2].</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <h4>⚡ 2. Smart Residential Energy Management System (SREMS)</h4>
+      <p><b>Tech Stack:</b> <code>Java</code> <code>Spring Boot</code> <code>Spring Security</code> <code>Hibernate/JPA</code> <code>MySQL</code> <code>REST APIs</code> <code>Maven</code>[cite: 2]</p>
+      <ul>
+        <li>Developed backend functionality for residential device management during an internship at <b>Infosys Springboard</b>[cite: 2].</li>
+        <li>Implemented Role-Based Access Control (RBAC) utilizing Spring Security[cite: 2].</li>
+        <li>Executed testing, debugging, and mock data validation across Controller-Service-Repository layers[cite: 2].</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- EXPERIENCE & CREDENTIALS -->
+### 🏆 Experience & Credentials
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏢 Internship Experience</h4>
+      <p><b>Software Developer Intern</b> — <i>Infosys Springboard</i><br />
+      <small>Nov 2025 – Jan 2026</small>[cite: 2]</p>
+      <ul>
+        <li>Contributed to backend device management modules in a team-based project setting under industry mentorship[cite: 2].</li>
+        <li>Participated in weekly code reviews, debugging, testing, and sprint discussions[cite: 2].</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📜 Verified Certifications</h4>
+      <ul>
+        <li><b>Programming in Java</b> — NPTEL <small>(Jan – Mar 2025)</small>[cite: 2]</li>
+        <li><b>Ethical Hacking Essentials</b> — EC-Council <small>(Oct 2025)</small>[cite: 2]</li>
+      </ul>
+    </td>
+  </tr>
+</table>
