@@ -1,7 +1,8 @@
 <h1 align="center">
-  Hi there, I'm Hemanth 👋
+  Hi there, I'm Hemanthraj D 👋
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Software+Developer;Cybersecurity+Enthusiast;4th+Year+Computer+Science+Student" alt="Typing SVG" />
+  <!-- This smooth animation loops continuously through your professional roles -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=550&lines=Software+Developer;Java+%26+Spring+Boot+Dev;Cybersecurity+Enthusiast;Final+Year+CSE+student" alt="Typing SVG" />
 </h1>
 
 <p align="center">
