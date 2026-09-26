@@ -6,10 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=000000&center=false&vCenter=true&width=650&lines=Hands-on+Experience+in+Java+%26+Spring+Boot;Worked+on+Projects+like+SREMS+%26+Risk+Prioritization;Cybersecurity+Enthusiast;Now+working+on+project+SPAGuard" alt="Typing SVG" />
   <br /><br />
 </div>
- <p>
-  <a href="https://linkedin.com/in/hemanthraj-devan"><img src="https://img.shields.io/badge/-LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/hemanthrajd-cyber"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:hemanthrajd25@gmail.com"><img src="https://img.shields.io/badge/-Email-181717?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<p>
+  <a href="https://linkedin.com/in/hemanthraj-devan"><img src="https://img.shields.io/badge/LinkedIn-24292e?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/hemanthrajd-cyber"><img src="https://img.shields.io/badge/GitHub-24292e?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:hemanthrajd25@gmail.com"><img src="https://img.shields.io/badge/Email-24292e?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 </div>
 
