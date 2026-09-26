@@ -1,7 +1,7 @@
 <!-- LEFT-ALIGNED HERO HEADER -->
 <div align="left">
-  <h1>Hemanthraj D 👋</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=false&vCenter=true&width=550&lines=Software+Developer;Java+%26+Spring+Boot+Dev;Cybersecurity+Enthusiast;Final+Year+CSE+Student" alt="Typing SVG" />
+  <h1>HI there! Hemanthraj D 👋</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=000000&center=false&vCenter=true&width=650&lines=Software+Developer;Hands-on+Experience+in+Java+%26+Spring+Boot;Worked+on+Projects+like+SREMS+%26+Risk+Prioritization;Cybersecurity+Enthusiast;Final+Year+CSE+Student" alt="Typing SVG" />
   <br /><br />
   <p>
     <a href="https://linkedin.com/in/hemanthraj-devan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
