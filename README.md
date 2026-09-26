@@ -7,9 +7,9 @@
   <br /><br />
 </div>
  <p>
-  <a href="https://linkedin.com/in/hemanthraj-devan"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/hemanthrajd-cyber"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:hemanthrajd25@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/hemanthraj-devan"><img src="https://img.shields.io/badge/-LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/hemanthrajd-cyber"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:hemanthrajd25@gmail.com"><img src="https://img.shields.io/badge/-Email-181717?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 </div>
 
