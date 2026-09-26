@@ -1,7 +1,9 @@
 <!-- LEFT-ALIGNED HERO HEADER -->
 <div align="left">
-  <h1>HI there! Hemanthraj D 👋</h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=000000&center=false&vCenter=true&width=650&lines=Software+Developer;Hands-on+Experience+in+Java+%26+Spring+Boot;Worked+on+Projects+like+SREMS+%26+Risk+Prioritization;Cybersecurity+Enthusiast;Final+Year+CSE+Student" alt="Typing SVG" />
+  <h1>Hi there! Hemanthraj D 👋</h1>
+  <h3>Software Developer | Enterprise Java & Spring Boot | Cybersecurity Enthusiast</h3>
+  <p><b>Final Year CSE Student</b> @ R.M.D Engineering College ('27)</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=000000&center=false&vCenter=true&width=650&lines=Hands-on+Experience+in+Java+%26+Spring+Boot;Worked+on+Projects+like+SREMS+%26+Risk+Prioritization;Cybersecurity+Enthusiast;now+working+on+project SPAGaurd" alt="Typing SVG" />
   <br /><br />
   <p>
     <a href="https://linkedin.com/in/hemanthraj-devan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -18,7 +20,7 @@
     <td width="100%">
       <h3>💡 Executive Profile</h3>
       <p>
-        Computer Science Engineering undergraduate specialized in <b>Java, Spring Boot, REST APIs</b>, and <b>Zero-Trust Network Security</b>[cite: 2]. Experienced in enterprise backend architecture through a Software Developer Internship at <b>Infosys Springboard</b>, holding industry certifications in Java (NPTEL) and Ethical Hacking (EC-Council)[cite: 2]. Focused on building scalable, security-first digital solutions for modern enterprise environments like <b>LTI Mindtree</b>[cite: 2].
+        Computer Science Engineering undergraduate specialized in <b>Java, Spring Boot, REST APIs</b>, and <b>Zero-Trust Network Security</b>[cite: 2]. Experienced in enterprise backend architecture through a Software Developer Internship at <b>Infosys Springboard</b>, holding industry certifications in Java (NPTEL) and Ethical Hacking (EC-Council)[cite: 2]. Focused on building scalable, security-first digital solutions for modern enterprise environments[cite: 2].
       </p>
     </td>
   </tr>
